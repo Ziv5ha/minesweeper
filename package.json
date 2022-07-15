@@ -1,0 +1,24 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ziv5ha/minesweeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ziv5ha/minesweeper/issues"
+  },
+  "homepage": "https://github.com/Ziv5ha/minesweeper#readme",
+  "devDependencies": {
+    "ts-node": "^10.8.0",
+    "typescript": "^4.7.2"
+  }
+}
