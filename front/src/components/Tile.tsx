@@ -41,6 +41,6 @@ export default function Tile({
       </span>
     );
   } else {
-    return <span className='tile open'>{value}</span>;
+    return <span className='tile open'>{value !== 0 ? value : ''}</span>;
   }
 }
